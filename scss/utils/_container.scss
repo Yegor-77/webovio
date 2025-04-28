@@ -1,0 +1,18 @@
+.container {
+  width: 450px;
+  padding: 0 15px;
+  margin: 0 auto;
+  outline: auto red;
+}
+@media (min-width: 768px) and (max-width: 1140px) {
+  .container {
+    width: 738px;
+  }
+}
+
+@media (min-width: 1141px) {
+  .container {
+    width: 1140px;
+    padding: 0 10px;
+  }
+}
