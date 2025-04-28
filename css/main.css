@@ -338,6 +338,43 @@ body {
   display: flex;
 }
 
+.six-sec {
+  margin-bottom: 100px;
+}
+
+.seven-line-sec {
+  margin-bottom: 50px;
+  width: 822px;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 74px;
+  letter-spacing: 0px;
+  color: #4d533c;
+}
+
+.balenciaga-image {
+  position: relative;
+  left: -185px;
+}
+
+.balenciaga-wrap {
+  justify-content: center;
+  display: flex;
+}
+
+.footer {
+  background-color: #4f553d;
+}
+
+.display-backgraund {
+  width: 1275px;
+  height: 362px;
+  padding-bottom: 70px;
+  margin-left: 164px;
+  margin-right: 289px;
+  margin-top: 70px;
+}
+
 .mn-sec-four-four {
   margin-bottom: 90px;
   margin-left: 56px;
