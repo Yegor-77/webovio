@@ -353,8 +353,7 @@ body {
 }
 
 .balenciaga-image {
-  position: relative;
-  left: -185px;
+  margin-left: -175px;
 }
 
 .balenciaga-wrap {
